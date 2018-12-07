@@ -6,6 +6,9 @@ work4_test
 GM5
 master6
 GM6
+<<<<<<< HEAD
 master7
 8
 9
+=======
+>>>>>>> parent of 3f33d98... master7
