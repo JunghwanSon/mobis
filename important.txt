@@ -7,6 +7,3 @@ GM5
 master6
 GM6
 master7
-8
-9
-10
